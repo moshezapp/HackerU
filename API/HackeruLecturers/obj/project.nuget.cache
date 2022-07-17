@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9DGIsdFOHlgcT2kBGyUligxGDqDDLHpl7rnJKW4CaY/3rxk1EZHdd3VDI6aHF51B1l/eKnuc9h+jGmfgeRgww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moshe\\Desktop\\HARDCODED\\ראיונות עבודה\\HackerU\\ExampleProject\\API\\HackeruLecturers\\HackeruLecturers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moshe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Moshe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Moshe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Moshe\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moshe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moshe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moshe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

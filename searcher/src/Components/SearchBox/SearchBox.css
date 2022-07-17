@@ -1,0 +1,14 @@
+.searchBox {
+    margin-left: 5% ;
+    margin-top: 5% ;
+    font-size: large;
+}
+
+.lecturer {
+    border: 2px rgb(166, 211, 255) solid;
+    border-radius: 10px;
+    width: 60%;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
